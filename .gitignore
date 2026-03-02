@@ -6,7 +6,7 @@ Thumbs.db
 *.swo
 .vscode/
 .idea/
-
+.history/
 ### Node / 前端构建
 node_modules/
 npm-debug.log*
